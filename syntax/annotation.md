@@ -59,7 +59,23 @@ A whole horizontal line which holds exactly one line.
     
         etc
     
-# Example
+# Example and Figure
+
+## Example 1
+https://github.com/40843245/Wiki/blob/main/syntax/screenshot/example/screenshot_1.png
+    
+https://github.com/40843245/Wiki/blob/main/syntax/screenshot/example/screenshot_3.png
+
+## Example 2
+    
+https://github.com/40843245/Wiki/blob/main/syntax/screenshot/example/screenshot_2.png
+    
+https://github.com/40843245/Wiki/blob/main/syntax/screenshot/example/screenshot_4.png
+    
+    
+## Example 3
+In my page of wiki in Github as example.
+    
 https://github.com/40843245/project/wiki
 
 # Ref
