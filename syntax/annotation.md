@@ -52,11 +52,13 @@ A whole horizontal line which holds exactly one line.
     
 # Notice
 1. The syntax can be applied in these pages about wiki although the syntax and functionality may be slightly diffeent between them.
-    wikipedia
-    csiewiki
-    wiki in GitHub
     
-    etc
+        wikipedia
+        csiewiki
+        wiki in GitHub
+    
+        etc
+    
 # Example
 https://github.com/40843245/project/wiki
 
