@@ -58,6 +58,10 @@ A whole horizontal line which holds exactly one line.
         wiki in GitHub
     
         etc
+# New line
+## 
+            Just add a new line between 2 lines.
+            Or exactly to say, to display 2 lines, one empty line (a line just contain "\n" exclusive "\n " and "\n\t" etc) is neccessary when written.
     
 # Example and Figure
 
