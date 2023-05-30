@@ -50,7 +50,19 @@ A whole horizontal line which holds exactly one line.
     
     <nowiki> Text which ignores wiki syntax  </nowiki>
     
-## Example
+# Notice
+1. The syntax can be applied in these pages about wiki although the syntax and functionality may be slightly diffeent between them.
+    wikipedia
+    csiewiki
+    wiki in GitHub
+    
+    etc
+# Example
 https://github.com/40843245/project/wiki
 
+# Ref
+
+GitHub Official Docs:
     
+https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
+
