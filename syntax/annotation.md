@@ -33,5 +33,13 @@ The annotation = has similar meaning of <h> tag in html.
     
         [[internal link]]
     
+# Horizontal line #
+## ----
+A whole horizontal line which holds exactly one line.
+    
+          ----- 
+    
 ## Example
 https://github.com/40843245/project/wiki
+
+    
