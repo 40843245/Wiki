@@ -23,5 +23,11 @@ The annotation = has similar meaning of <h> tag in html.
 ## """ ## 
     
             """ Bold Text """
+    
+# Italic # 
+## ''
+    
+        ''Italic Text''
+    
 ## Example
 https://github.com/40843245/project/wiki
