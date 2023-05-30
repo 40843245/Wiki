@@ -33,11 +33,15 @@ The annotation = has similar meaning of <h> tag in html.
     
         [[internal link]]
     
-# Horizontal line #
+# Horizontal line 
 ## ----
 A whole horizontal line which holds exactly one line.
     
           ----- 
+# Text which ignores wiki syntax 
+## <nowiki> </nowiki>
+    
+    <nowiki> Text which ignores wiki syntax  </nowiki>
     
 ## Example
 https://github.com/40843245/project/wiki
