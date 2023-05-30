@@ -28,16 +28,23 @@ The annotation = has similar meaning of <h> tag in html.
 ## ''
     
         ''Italic Text''
-# Internal link #
-## [[]] ##
     
-        [[internal link]]
-    
-# Horizontal line 
+# Horizontal line (rarely used)
 ## ----
 A whole horizontal line which holds exactly one line.
     
           ----- 
+    
+# Internal link #
+## [[]] 
+    
+        [[internal link]]
+ 
+# Insert an image #
+## [[檔案: .jpg]]
+    
+      [[檔案: 範例.jpg]]
+    
 # Text which ignores wiki syntax 
 ## <nowiki> </nowiki>
     
